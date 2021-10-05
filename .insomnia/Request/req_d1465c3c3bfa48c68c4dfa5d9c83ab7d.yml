@@ -1,0 +1,21 @@
+_id: req_d1465c3c3bfa48c68c4dfa5d9c83ab7d
+type: Request
+parentId: wrk_2c8e6e3645c9491c8422c9554207874f
+modified: 1633477204358
+created: 1633476929069
+url: https://neo-link-prod-webapp.azurewebsites.net/WeatherForecast
+name: Weather Forecast
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1633476929115
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

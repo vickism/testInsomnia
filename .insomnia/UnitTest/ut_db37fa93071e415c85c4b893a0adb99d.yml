@@ -1,0 +1,10 @@
+_id: ut_db37fa93071e415c85c4b893a0adb99d
+type: UnitTest
+parentId: uts_349b19105b8a454fa6f68171c60afed0
+modified: 1633477013410
+created: 1633477009542
+requestId: req_d1465c3c3bfa48c68c4dfa5d9c83ab7d
+name: Can Get Weather
+code: |-
+  const response1 = await insomnia.send();
+  expect(response1.status).to.equal(200);

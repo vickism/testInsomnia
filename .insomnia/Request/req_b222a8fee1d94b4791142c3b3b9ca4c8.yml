@@ -1,0 +1,21 @@
+_id: req_b222a8fee1d94b4791142c3b3b9ca4c8
+type: Request
+parentId: fld_1a565d44871d412f849973415f5d99c2
+modified: 1633477294165
+created: 1633477291414
+url: https://dog-facts-api.herokuapp.com/api/v1/resources/dogs/all
+name: GET All Dog Facts
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1633477291414
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
