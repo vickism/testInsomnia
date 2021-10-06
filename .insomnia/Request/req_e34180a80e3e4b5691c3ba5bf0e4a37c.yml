@@ -1,0 +1,21 @@
+_id: req_e34180a80e3e4b5691c3ba5bf0e4a37c
+type: Request
+parentId: fld_1cde4ad835b44021913f318e77c1c4d3
+modified: 1633491265300
+created: 1633491263772
+url: https://hacker-news.firebaseio.com/v0/item/8863.json?print=pretty
+name: GET News Item 8836
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1633491263772
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
